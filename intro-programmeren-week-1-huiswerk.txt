@@ -1,0 +1,56 @@
+Voor deze huiswerkopdracht zijn 10 punten te behalen. Bij de verschillende opgave staat hoeveel punten
+er te verdienen zijn. De opdrachten lopen op in moeilijkheidsgraad. De opdrachten mogen worden gemaakt
+in een programmeertaal naar keuze, je mag ook meerdere talen gebruiken.
+
+
+Tijdens het tekenen van figuren gelden er regels:
+- Je mag geen gebruik maken van het vermenigvuldigen van strings
+- Je mag maar een enkele print / Write / WriteLine / printen gebruiken
+- Je bouwt een string op en print het resultaat
+- Je moet gebruik maken van loops (tenzij anders aangegeven)
+
+
+Opgave 1 (1 punt)
+Maak een programma dat het volgende figuur tekent:
+*
+**
+***
+****
+*****
+
+
+Opgave 2 (1 punt)
+Schijf een programma waarbij de gebruiker in kan vullen hoe warm het is in graden celcius. Vervolgens berekent 
+en print het programma de temperatuur in kelvin en fahrenheit. De formules voor de berekening zijn:
+Celcius -> Kelvin: Celius + 273.15
+Celsius -> Fahrenheit: Celcius * 1.8 + 32
+
+
+Opgave 3 (1 punt)
+Maak een dobbelsteen in de console doormiddel van een random number generator
+- op het moment dat er een even getal wordt gegooid moet de tekst "Het is even" worden getoond
+- als het getal oneven is moet de tekst "Het is oneven worden gegooid" worden getoond 
+- op het moment dat er 1 of 6 wordt gegooid moet de tekst: "GRENS" worden, de andere teksten moeten dan niet
+  worden getoond.
+
+Opgave 4 (2 punten)
+Maak een functie die het onderstaande figuur maakt. De hoogte moet variabel zijn en aan te geven met een argument.
+Je mag ervan uitgaan dat de minimale input 3 is. Bij een aangegeven hoogte van 5 krijg je de volgende tekening:
+    *
+   ***
+  *****
+ *******
+*********
+
+
+Opgave 5 (2 punten)
+Laat de gebruik zijn of haar naam invullen en geef deze gebruiker een begroeting. Deze begroeting moet passen bij 
+het moment van de dag: goedemorgen in de ochtend, goedemiddag in de middag en goedenavond in de avond.
+
+
+Opgave 6 (3 punten)
+In dit programma vraag je de gebruiker naar de namen en leeftijden van een groep mensen. De uitput moet aangeven welke
+mensen alchohol mogen nuttigen, en welke niet. Je bent vrij om zelf een methode te vinden om dit probleem te tackelen.
+
+Voorbeeld input: Jimmy (15), Wesley (21), Els (24), Ino (19), Fabian (17)
+Voorbeeld output: Jimmy niet, Wesley wel, Els wel, Ino wel, Fabian niet
