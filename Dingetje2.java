@@ -1,22 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package dingetje2;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Suman
- */
 public class Dingetje2 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
+	
+	public static void main(String[] args) {
         //alles maar in een aparte method stoppen omdat het beter staat lol
         loginSim();
     }  
@@ -48,5 +36,4 @@ public class Dingetje2 {
             System.out.println("");
         }
     }
-
 }
