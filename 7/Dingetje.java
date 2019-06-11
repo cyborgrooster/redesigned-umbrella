@@ -1,8 +1,8 @@
-package dingetje2;
+package dingetje;
 
 import java.util.Scanner;
 
-public class Dingetje2 {
+public class Dingetje {
 	
 	public static void main(String[] args) {
         //alles maar in een aparte method stoppen omdat het beter staat lol
